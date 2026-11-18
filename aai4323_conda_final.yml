@@ -27,6 +27,7 @@ dependencies:
   # ML and Statistics
   - scikit-learn
   - statsmodels
+  - scipy
 
   # Utilities
   - tqdm
